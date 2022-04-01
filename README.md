@@ -1,1 +1,1 @@
-Hello i am currently learning frontend development.
+I'm a front-end Developer.
